@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/categories/iosdevelop/index.html</loc>
+    <lastmod>2016-06-03T05:32:16.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/lifestyle/index.html</loc>
+    <lastmod>2016-06-03T05:31:44.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     <lastmod>2016-06-03T05:29:41.000Z</lastmod>
   </url>
